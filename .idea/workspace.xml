@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="687643b3-3d8b-4962-97c0-3768c6ca57f1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1igj1LY2qBgMEG4D2czrtCiGINK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="D:/WeChat Files/wxid_8wtksjqax15x22/FileStorage/File/2020-10/DataCertProject" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\gopackage\src\DataCertProject\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\gopackage\src\DataCertProject\static\js" />
+      <recent name="C:\gopackage\src\DataCertProject\static\img" />
+      <recent name="C:\gopackage\src\DataCertProject\static\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build DataCertProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DataCertProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="DataCertProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build DataCertProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="119" key="FileChooserDialogImpl" timestamp="1602417576997">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="119" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1602417576997" />
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom" timestamp="1602418759556">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1602418759556" />
+    <state width="1237" height="180" key="GridCell.Tab.0.center" timestamp="1602418759556">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1602418759556" />
+    <state width="1237" height="180" key="GridCell.Tab.0.left" timestamp="1602418759554">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1602418759554" />
+    <state width="1237" height="180" key="GridCell.Tab.0.right" timestamp="1602418759556">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1602418759556" />
+    <state x="281" y="86" width="718" height="548" key="find.popup" timestamp="1602406334102">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="281" y="86" width="718" height="548" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1602406334102" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1602416586103">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1602416586103" />
+  </component>
+</project>
