@@ -8,7 +8,7 @@ import (
 
 func main() {
 	//1、链接数据库
-	db_mysql.ConnrctDB()
+	db_mysql.ConnctDB()
 
 	//设置静态资源文件
 	beego.SetStaticPath("/js","./static/js")
