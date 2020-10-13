@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="687643b3-3d8b-4962-97c0-3768c6ca57f1" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/userForgetController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/userLoginController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/userSaveProveController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/sign-in-bg-5JlvAfR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/UserLoginForm-86fb5.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/pc_nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/upload/b5dbe9ef23f518bbb3bd0a7f773f5ccd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/forget.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/uploadFileController.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/userRegisterConntroller.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/userRegisterConntroller.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_mysql/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/db_mysql/db.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app-f03c3be68c19ce58d4ff.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/app-f03c3be68c19ce58d4ff.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/HomeNew-f8f62.chunk.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/HomeNew-f8f62.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/UserRegistryForm-ef59c.chunk.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/UserRegistryForm-ef59c.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app-f03c3be68c19ce58d4ff.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app-f03c3be68c19ce58d4ff.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/b.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/common-f03c3be68c19ce58d4ff.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/common-f03c3be68c19ce58d4ff.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/data-set.min.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/data-set.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/es6-shim-8e9077312e.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/es6-shim-8e9077312e.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/hm.js(1).下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/hm.js(1)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/hm.js(2).下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/hm.js(2)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/hm.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/hm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/jquery-02053ebe83.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery-02053ebe83.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="HTML File" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
@@ -51,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1igj1LY2qBgMEG4D2czrtCiGINK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,7 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/js" />
+    <property name="last_opened_file_path" value="D:/WeChat Files/wxid_8wtksjqax15x22/FileStorage/DataCertProject" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -73,8 +47,8 @@
       <recent name="C:\gopackage\src\DataCertProject\views" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\gopackage\src\DataCertProject\static\upload" />
       <recent name="C:\gopackage\src\DataCertProject\static\js" />
+      <recent name="C:\gopackage\src\DataCertProject\static\upload" />
       <recent name="C:\gopackage\src\DataCertProject\static\img" />
       <recent name="C:\gopackage\src\DataCertProject\static\css" />
     </key>
@@ -99,10 +73,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="119" key="FileChooserDialogImpl" timestamp="1602509812080">
+    <state x="421" y="119" key="FileChooserDialogImpl" timestamp="1602597117243">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="119" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1602509812080" />
+    <state x="421" y="119" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1602597117243" />
     <state width="1237" height="144" key="GridCell.Tab.0.bottom" timestamp="1602505196482">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
