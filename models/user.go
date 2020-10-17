@@ -34,9 +34,9 @@ func (u User) SaveUser()(int64,error){
 	return id,nil
 }
 
-/*
-查询用户信息
-*/
+
+//查询用户信息
+
 func (u User) QueryUser()(*User,error) {
 	if u.Password=="" {
 		err := fmt.Errorf("hello error")

@@ -10,12 +10,9 @@ type LoginController struct {
 	beego.Controller
 }
 
-/**
- * 直接访问login.html页面的请求
- */
+
+ //访问login.html页面的请求
 func (l *LoginController) Get(){
-	//设置login.html为模板文件
-	//tpl: template
 	l.TplName = "login.html"
 }
 
@@ -29,16 +26,14 @@ func (l  *LoginController) Post(){
 		l.TplName = "anaiysisErrorPage.html"
 		return
 	}
-	//fmt.Println(user.Phone,user.Password)
 	//查询数据库的用户信息
 	u, err := user.QueryUser()
 	if err != nil {
-		// sql: no rows in result set（集合）：结果集中无数据
 		fmt.Println(err.Error())
 		l.TplName = "userErrorPage.html"
 		return
 	}
-	//登录成功,跳转项目核心功能页面（home.html)
+	//登录成功,跳转项目核心功能页面
 	l.Data["Phone"] = u.Phone
-	l.TplName = "home.html"//{{.Phone}}
+	l.TplName = "home.html"
 }
